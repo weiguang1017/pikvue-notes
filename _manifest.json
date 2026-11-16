@@ -358,5 +358,359 @@
   "slug": "best-gpu-cloud-for-ai-inference-2026-runpod-vs-vast-ai-vs-lambda-labs-for-indie-developers",
   "url": "https://pikvue.com/best-gpu-cloud-for-ai-inference-2026-runpod-vs-vast-ai-vs-lambda-labs-for-indie-developers/",
   "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 1041,
+  "slug": "open-webui-review-2026-the-self-hosted-chatgpt-alternative-for-privacy-conscious-teams",
+  "url": "https://pikvue.com/open-webui-review-2026-the-self-hosted-chatgpt-alternative-for-privacy-conscious-teams/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 1027,
+  "slug": "tabby-review-2026-self-hosted-ai-code-completion",
+  "url": "https://pikvue.com/tabby-review-2026-self-hosted-ai-code-completion/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 1014,
+  "slug": "posthog-review-2026-open-source-product-analytics-for-indie-saas-founders",
+  "url": "https://pikvue.com/posthog-review-2026-open-source-product-analytics-for-indie-saas-founders/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 1012,
+  "slug": "loom-review-2026-async-video-messaging-remote-engineering-teams",
+  "url": "https://pikvue.com/loom-review-2026-async-video-messaging-remote-engineering-teams/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 1000,
+  "slug": "hugging-face-vs-replicate-vs-together-ai-2026-best-ai-model-hosting-platform-compared",
+  "url": "https://pikvue.com/hugging-face-vs-replicate-vs-together-ai-2026-best-ai-model-hosting-platform-compared/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 941,
+  "slug": "linear-review-2026-the-project-management-tool-developers-actually-like",
+  "url": "https://pikvue.com/linear-review-2026-the-project-management-tool-developers-actually-like/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 882,
+  "slug": "weights-biases-vs-mlflow-choosing-the-right-mlops-control-plane",
+  "url": "https://pikvue.com/weights-biases-vs-mlflow-choosing-the-right-mlops-control-plane/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 878,
+  "slug": "bun-vs-deno-the-fast-javascript-runtime-decision-guide",
+  "url": "https://pikvue.com/bun-vs-deno-the-fast-javascript-runtime-decision-guide/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 874,
+  "slug": "replicate-vs-modal-vs-paperspace-which-ai-compute-platform-should-developers-choose",
+  "url": "https://pikvue.com/replicate-vs-modal-vs-paperspace-which-ai-compute-platform-should-developers-choose/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 868,
+  "slug": "fly-io-vs-railway-vs-render-picking-a-modern-app-hosting-platform",
+  "url": "https://pikvue.com/fly-io-vs-railway-vs-render-picking-a-modern-app-hosting-platform/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 866,
+  "slug": "supabase-vs-firebase-vs-pocketbase-which-backend-platform-should-you-build-on",
+  "url": "https://pikvue.com/supabase-vs-firebase-vs-pocketbase-which-backend-platform-should-you-build-on/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 860,
+  "slug": "zed-vs-vs-code-vs-jetbrains-which-code-editor-makes-the-most-sense-in-2026",
+  "url": "https://pikvue.com/zed-vs-vs-code-vs-jetbrains-which-code-editor-makes-the-most-sense-in-2026/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 854,
+  "slug": "cline-vs-continue-vs-aider-2026-which-ai-coding-assistant-fits-your-workflow",
+  "url": "https://pikvue.com/cline-vs-continue-vs-aider-2026-which-ai-coding-assistant-fits-your-workflow/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 842,
+  "slug": "openclaw-vs-hermes-agent-vs-zeroclaw-2026-which-personal-ai-agent-should-you-pick",
+  "url": "https://pikvue.com/openclaw-vs-hermes-agent-vs-zeroclaw-2026-which-personal-ai-agent-should-you-pick/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 828,
+  "slug": "openai-o3-vs-claude-4-5-vs-gemini-2-5-flash-2026",
+  "url": "https://pikvue.com/openai-o3-vs-claude-4-5-vs-gemini-2-5-flash-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 797,
+  "slug": "notebooklm-vs-perplexity-vs-chatgpt-deep-research-best-ai-research-tool-2026",
+  "url": "https://pikvue.com/notebooklm-vs-perplexity-vs-chatgpt-deep-research-best-ai-research-tool-2026/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 792,
+  "slug": "claude-code-vs-cursor-vs-windsurf-2026-best-ai-coding-agent",
+  "url": "https://pikvue.com/claude-code-vs-cursor-vs-windsurf-2026-best-ai-coding-agent/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 786,
+  "slug": "docker-vs-podman-vs-containerd-2026-best-container-runtime",
+  "url": "https://pikvue.com/docker-vs-podman-vs-containerd-2026-best-container-runtime/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 780,
+  "slug": "redis-vs-dragonfly-vs-keydb-2026-best-in-memory-database",
+  "url": "https://pikvue.com/redis-vs-dragonfly-vs-keydb-2026-best-in-memory-database/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 777,
+  "slug": "vercel-vs-netlify-vs-cloudflare-pages-2026-best-static-hosting",
+  "url": "https://pikvue.com/vercel-vs-netlify-vs-cloudflare-pages-2026-best-static-hosting/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 773,
+  "slug": "planetscale-vs-neon-vs-supabase-2026-best-serverless-postgres",
+  "url": "https://pikvue.com/planetscale-vs-neon-vs-supabase-2026-best-serverless-postgres/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 772,
+  "slug": "gamma-vs-tome-vs-beautiful-ai-2026-best-ai-presentation-maker",
+  "url": "https://pikvue.com/gamma-vs-tome-vs-beautiful-ai-2026-best-ai-presentation-maker/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 769,
+  "slug": "stripe-vs-lemonsqueezy-vs-paddle-2026-best-payment-platform-for-indie-saas",
+  "url": "https://pikvue.com/stripe-vs-lemonsqueezy-vs-paddle-2026-best-payment-platform-for-indie-saas/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 757,
+  "slug": "auth0-vs-clerk-vs-supabase-auth-2026-best-authentication-for-saas-apps",
+  "url": "https://pikvue.com/auth0-vs-clerk-vs-supabase-auth-2026-best-authentication-for-saas-apps/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 755,
+  "slug": "6-free-ai-coding-tools-that-actually-deliver-in-2026",
+  "url": "https://pikvue.com/6-free-ai-coding-tools-that-actually-deliver-in-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 752,
+  "slug": "running-ai-locally-in-2026-complete-guide-to-free-offline-gpt-4-claude-level-ai",
+  "url": "https://pikvue.com/running-ai-locally-in-2026-complete-guide-to-free-offline-gpt-4-claude-level-ai/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 748,
+  "slug": "v0-vs-bolt-new-vs-lovable-2026-best-ai-app-builder-for-developers",
+  "url": "https://pikvue.com/v0-vs-bolt-new-vs-lovable-2026-best-ai-app-builder-for-developers/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 746,
+  "slug": "chatgpt-o1-vs-gpt-4-vs-claude-which-reasoning-model-actually-thinks-best-in-2026",
+  "url": "https://pikvue.com/chatgpt-o1-vs-gpt-4-vs-claude-which-reasoning-model-actually-thinks-best-in-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 744,
+  "slug": "devin-vs-cursor-vs-windsurf-2026-which-ai-coding-assistant-actually-delivers",
+  "url": "https://pikvue.com/devin-vs-cursor-vs-windsurf-2026-which-ai-coding-assistant-actually-delivers/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 674,
+  "slug": "lm-studio-vs-ollama-vs-gpt4all-best-local-ai-2026",
+  "url": "https://pikvue.com/lm-studio-vs-ollama-vs-gpt4all-best-local-ai-2026/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 595,
+  "slug": "replit-agent-review-2026-building-apps-with-ai-from-your-browser",
+  "url": "https://pikvue.com/replit-agent-review-2026-building-apps-with-ai-from-your-browser/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 594,
+  "slug": "mistral-ai-review-2026-europes-answer-to-openai",
+  "url": "https://pikvue.com/mistral-ai-review-2026-europes-answer-to-openai/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 592,
+  "slug": "bolt-new-review-2026-can-ai-build-full-apps-from-a-single-prompt",
+  "url": "https://pikvue.com/bolt-new-review-2026-can-ai-build-full-apps-from-a-single-prompt/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 401,
+  "slug": "windsurf-review-2026-ai-ide-worth-switching-from-cursor",
+  "url": "https://pikvue.com/windsurf-review-2026-ai-ide-worth-switching-from-cursor/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 382,
+  "slug": "reasoning-ai-models-2026-accuracy-vs-cost",
+  "url": "https://pikvue.com/reasoning-ai-models-2026-accuracy-vs-cost/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 335,
+  "slug": "notion-vs-linear-vs-todoist-2026-which-tool-fits-your-team",
+  "url": "https://pikvue.com/notion-vs-linear-vs-todoist-2026-which-tool-fits-your-team/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 305,
+  "slug": "gemini-2-0-review-2026-features-pricing-verdict",
+  "url": "https://pikvue.com/gemini-2-0-review-2026-features-pricing-verdict/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 304,
+  "slug": "vs-code-extensions-review-2026-best-alternatives-compared",
+  "url": "https://pikvue.com/vs-code-extensions-review-2026-best-alternatives-compared/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 78,
+  "slug": "docker-desktop-vs-rancher-vs-orbstack-container-tools-2026-dup-78",
+  "url": "https://pikvue.com/docker-desktop-vs-rancher-vs-orbstack-container-tools-2026-dup-78/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 48,
+  "slug": "notion-ai-vs-coda-vs-craft-smart-note-apps-compared",
+  "url": "https://pikvue.com/notion-ai-vs-coda-vs-craft-smart-note-apps-compared/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 46,
+  "slug": "hyperdx-review-2026-open-source-observability-platform",
+  "url": "https://pikvue.com/hyperdx-review-2026-open-source-observability-platform/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 27,
+  "slug": "midjourney-vs-dall-e-3-vs-stable-diffusion-comparison",
+  "url": "https://pikvue.com/midjourney-vs-dall-e-3-vs-stable-diffusion-comparison/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 38,
+  "slug": "terraform-vs-pulumi-vs-cdk-infrastructure-as-code-compared",
+  "url": "https://pikvue.com/terraform-vs-pulumi-vs-cdk-infrastructure-as-code-compared/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 44,
+  "slug": "raycast-review-2026-spotlight-on-steroids-for-mac",
+  "url": "https://pikvue.com/raycast-review-2026-spotlight-on-steroids-for-mac/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 123,
+  "slug": "v0-by-vercel-review-2026-can-it-really-speed-up-frontend-work",
+  "url": "https://pikvue.com/v0-by-vercel-review-2026-can-it-really-speed-up-frontend-work/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 74,
+  "slug": "warp-terminal-review-2026-the-modern-terminal-developers-want",
+  "url": "https://pikvue.com/warp-terminal-review-2026-the-modern-terminal-developers-want/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 64,
+  "slug": "proton-suite-vs-google-workspace-privacy-first-productivity-in-2026",
+  "url": "https://pikvue.com/proton-suite-vs-google-workspace-privacy-first-productivity-in-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 32,
+  "slug": "obsidian-plugins-you-need-in-2026-15-that-actually-make-a-difference",
+  "url": "https://pikvue.com/obsidian-plugins-you-need-in-2026-15-that-actually-make-a-difference/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 35,
+  "slug": "notebooklm-review-2026-googles-ai-research-tool-is-surprisingly-good",
+  "url": "https://pikvue.com/notebooklm-review-2026-googles-ai-research-tool-is-surprisingly-good/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 63,
+  "slug": "apple-intelligence-review-2026-is-it-actually-useful-on-mac-and-iphone",
+  "url": "https://pikvue.com/apple-intelligence-review-2026-is-it-actually-useful-on-mac-and-iphone/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 121,
+  "slug": "obsidian-review-2026-why-creators-love-this-local-first-note-app",
+  "url": "https://pikvue.com/obsidian-review-2026-why-creators-love-this-local-first-note-app/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 7,
+  "slug": "notion-vs-obsidian-in-2026-which-note-taking-app-actually-wins",
+  "url": "https://pikvue.com/notion-vs-obsidian-in-2026-which-note-taking-app-actually-wins/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 81,
+  "slug": "openai-o1-review-2026-the-new-reasoning-model-that-thinks",
+  "url": "https://pikvue.com/openai-o1-review-2026-the-new-reasoning-model-that-thinks/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 37,
+  "slug": "nextjs-vs-nuxt-vs-sveltekit-the-frontend-framework-battle-of-2026",
+  "url": "https://pikvue.com/nextjs-vs-nuxt-vs-sveltekit-the-frontend-framework-battle-of-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 61,
+  "slug": "calcom-vs-calendly-vs-savvycal-scheduling-tools-compared-2026",
+  "url": "https://pikvue.com/calcom-vs-calendly-vs-savvycal-scheduling-tools-compared-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 50,
+  "slug": "zed-review-2026-the-fastest-code-editor-ever",
+  "url": "https://pikvue.com/zed-review-2026-the-fastest-code-editor-ever/",
+  "cov": "URL is unknown to Google"
+ },
+ {
+  "id": 41,
+  "slug": "claude-code-review-2026-anthropics-ai-programming-assistant",
+  "url": "https://pikvue.com/claude-code-review-2026-anthropics-ai-programming-assistant/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 26,
+  "slug": "warp-vs-iterm2-vs-alacritty-best-terminal-2026",
+  "url": "https://pikvue.com/warp-vs-iterm2-vs-alacritty-best-terminal-2026/",
+  "cov": "Discovered - currently not indexed"
+ },
+ {
+  "id": 16,
+  "slug": "opencode-review-2026-the-open-source-ai-coding-agent-with-100k-github-stars",
+  "url": "https://pikvue.com/opencode-review-2026-the-open-source-ai-coding-agent-with-100k-github-stars/",
+  "cov": "Discovered - currently not indexed"
  }
 ]
